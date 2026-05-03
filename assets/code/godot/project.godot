@@ -1,0 +1,18 @@
+; Godot Project Configuration
+[application]
+config/name="wildfire-if · Episode 1"
+config/features=PackedStringArray("4.2")
+run/main_scene="res://Main.tscn"
+
+[autoload]
+
+GameManager="*res://GameManager.gd"
+
+[rendering]
+renderer/rendering_method="mobile"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep"

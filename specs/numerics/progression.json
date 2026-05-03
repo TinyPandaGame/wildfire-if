@@ -1,0 +1,20 @@
+{
+  "system": "progression",
+  "version": "1.0.0",
+  "parameters": {
+    "levels": 10,
+    "baseXP": 100,
+    "xpGrowthRate": 1.5,
+    "xpPerSession": 200
+  },
+  "simulationResult": {
+    "domain": "progression",
+    "converged": true,
+    "iterations": 1,
+    "metrics": {
+      "totalSessions": 57,
+      "maxSpikeRatio": 1.5,
+      "totalXP": 11337
+    }
+  }
+}

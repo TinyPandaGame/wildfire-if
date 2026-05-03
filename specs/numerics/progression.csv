@@ -1,0 +1,5 @@
+parameter,value
+levels,10
+baseXP,100
+xpGrowthRate,1.5
+xpPerSession,200

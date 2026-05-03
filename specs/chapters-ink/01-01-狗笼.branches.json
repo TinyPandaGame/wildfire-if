@@ -1,0 +1,121 @@
+{
+  "chapter": "01-01-狗笼",
+  "branches": [
+    {
+      "id": "B1_dock_signoff",
+      "atLine": 14,
+      "trigger": "胖刘嘲讽沈夜小身板早晚被打断腿",
+      "context": "码头黄昏，签字交工后胖刘半玩笑半警告。",
+      "options": [
+        {
+          "label": "沉默走开（默认）",
+          "consequence": "隐忍基调。MND -1, WLD +1。"
+        },
+        {
+          "label": "回一句\"今晚就打断他\"",
+          "consequence": "WLD +2，激活第二幕开局变体。"
+        },
+        {
+          "label": "问\"还能多搬几箱\"",
+          "consequence": "PWR +1, MND +1，叶分支胖刘多给十块。"
+        }
+      ]
+    },
+    {
+      "id": "B2_cage_entry",
+      "atLine": 30,
+      "trigger": "推开狗笼铁皮门那一刻",
+      "context": "直接入场或先听对话。",
+      "options": [
+        {
+          "label": "直接脱外套上场",
+          "consequence": "主线节奏紧。"
+        },
+        {
+          "label": "在外铁丝网边长按蹲守 1.5s",
+          "consequence": "解锁\"听到铁柱腰伤复发\"。MND +1。"
+        }
+      ]
+    },
+    {
+      "id": "B3_first_dunk",
+      "atLine": 88,
+      "trigger": "球滚到沈夜脚边，铁柱半步空档",
+      "context": "Episode 1 唯一一次拖拽手势。低调上篮 vs 拔起来扣。",
+      "options": [
+        {
+          "label": "tap 上篮（低调过铁柱）",
+          "consequence": "MND +1, JMP 不变。叶分支\"压抑的快攻\"解锁。"
+        },
+        {
+          "label": "拖拽向上 — 起跳暴扣",
+          "consequence": "WLD +2, JMP +3, wildfire.v01 +1。手指割破。"
+        },
+        {
+          "label": "拖拽向左 — 急停假动作",
+          "consequence": "WLD +1, DRB +1。叶分支\"刀叔今晚不来教\"。"
+        }
+      ]
+    },
+    {
+      "id": "B4_back_slam",
+      "atLine": 122,
+      "trigger": "铁柱身体撞翻沈夜，最后一球抛投",
+      "context": "10-6 拿下。后背蹭水泥地。",
+      "options": [
+        {
+          "label": "立刻起身",
+          "consequence": "WLD +1, MND +1。"
+        },
+        {
+          "label": "躺地长按看天 1s",
+          "consequence": "解锁\"第一次想到爸\"。MND +2。"
+        },
+        {
+          "label": "盯铁柱不动两秒",
+          "consequence": "WLD +2, MND -1。第三章战斗难度↑。"
+        }
+      ]
+    },
+    {
+      "id": "B5_old_blade_invite",
+      "atLine": 156,
+      "trigger": "老刀说'我可以教你打球'",
+      "context": "导师线开关。",
+      "options": [
+        {
+          "label": "tap '为什么？' 然后接受",
+          "consequence": "导师线开启。MND +1。"
+        },
+        {
+          "label": "tap '不要钱我也不要' 转身",
+          "consequence": "WLD +3, MND -2。残缺野火路径。"
+        },
+        {
+          "label": "长按沉默 — 不答应不拒绝",
+          "consequence": "三天后老刀又来。MND +2, WLD +1。"
+        }
+      ]
+    },
+    {
+      "id": "B6_mom_kitchen",
+      "atLine": 192,
+      "trigger": "妈妈说'你爸要是在...'",
+      "context": "Episode 收束基调判定。",
+      "options": [
+        {
+          "label": "tap '我爸要是在我就不用去码头'",
+          "consequence": "野火基调 +3。"
+        },
+        {
+          "label": "tap '知道了，妈' 默默吃面",
+          "consequence": "压抑基调 +3。"
+        },
+        {
+          "label": "长按把今晚赢的钱放桌上",
+          "consequence": "老练基调 +4。Episode 5 钩子加深。"
+        }
+      ]
+    }
+  ]
+}

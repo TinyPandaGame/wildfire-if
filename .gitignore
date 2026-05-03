@@ -1,0 +1,29 @@
+# 构建产物（重，每次重生成）
+build/
+
+# 内容源（独立 repo，按需 clone：git clone https://github.com/TinyPandaGame/jisawStory.git content-source）
+content-source/
+
+# 工作区运行时状态（churn 高，不入版本）
+.gameclaw/backup/
+.gameclaw/versions/
+.gameclaw/state.json
+
+# Godot editor 缓存
+.godot/
+
+# 编辑器临时
+*.import
+*.tmp
+*.bak
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# 隐藏的本地配置/私密
+.env
+.env.local

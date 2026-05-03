@@ -1,0 +1,277 @@
+{
+  "startNode": "B1_dock_signoff",
+  "endNode": "__END__",
+  "nodes": {
+    "B1_dock_signoff": {
+      "id": "B1_dock_signoff",
+      "label": "胖刘嘲讽沈夜小身板早晚被打断腿",
+      "durationSec": 3,
+      "branches": [
+        {
+          "id": "B1_dock_signoff__沉默走开_默认",
+          "gesture": "tap",
+          "next": "B2_cage_entry",
+          "statDelta": {
+            "MND": -1,
+            "WLD": 1
+          },
+          "isAggressive": false,
+          "isSuppressed": true,
+          "unlockLeaves": [],
+          "label": "沉默走开（默认）"
+        },
+        {
+          "id": "B1_dock_signoff__回一句_今晚就打断他",
+          "gesture": "tap",
+          "next": "B2_cage_entry",
+          "statDelta": {
+            "WLD": 2
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "回一句\"今晚就打断他\""
+        },
+        {
+          "id": "B1_dock_signoff__问_还能多搬几箱",
+          "gesture": "tap",
+          "next": "B2_cage_entry",
+          "statDelta": {
+            "PWR": 1,
+            "MND": 1
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "问\"还能多搬几箱\""
+        }
+      ],
+      "default": "B2_cage_entry",
+      "trigger": "胖刘嘲讽沈夜小身板早晚被打断腿"
+    },
+    "B2_cage_entry": {
+      "id": "B2_cage_entry",
+      "label": "推开狗笼铁皮门那一刻",
+      "durationSec": 3,
+      "branches": [
+        {
+          "id": "B2_cage_entry__直接脱外套上场",
+          "gesture": "tap",
+          "next": "B3_first_dunk",
+          "statDelta": {},
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "直接脱外套上场"
+        },
+        {
+          "id": "B2_cage_entry__在外铁丝网边长按蹲守_1_5s",
+          "gesture": "long_press",
+          "next": "B3_first_dunk",
+          "statDelta": {
+            "MND": 1
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [
+            "听到铁柱腰伤复发"
+          ],
+          "label": "在外铁丝网边长按蹲守 1.5s"
+        }
+      ],
+      "default": "B3_first_dunk",
+      "trigger": "推开狗笼铁皮门那一刻"
+    },
+    "B3_first_dunk": {
+      "id": "B3_first_dunk",
+      "label": "球滚到沈夜脚边，铁柱半步空档",
+      "durationSec": 3,
+      "branches": [
+        {
+          "id": "B3_first_dunk__tap_上篮_低调过铁柱",
+          "gesture": "tap",
+          "next": "B4_back_slam",
+          "statDelta": {
+            "MND": 1
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "tap 上篮（低调过铁柱）"
+        },
+        {
+          "id": "B3_first_dunk__拖拽向上_起跳暴扣",
+          "gesture": "swipe",
+          "swipeDir": "up",
+          "next": "B4_back_slam",
+          "statDelta": {
+            "WLD": 2,
+            "JMP": 3
+          },
+          "isAggressive": true,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "拖拽向上 — 起跳暴扣"
+        },
+        {
+          "id": "B3_first_dunk__拖拽向左_急停假动作",
+          "gesture": "swipe",
+          "swipeDir": "left",
+          "next": "B4_back_slam",
+          "statDelta": {
+            "WLD": 1,
+            "DRB": 1
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "拖拽向左 — 急停假动作"
+        }
+      ],
+      "default": "B4_back_slam",
+      "trigger": "球滚到沈夜脚边，铁柱半步空档"
+    },
+    "B4_back_slam": {
+      "id": "B4_back_slam",
+      "label": "铁柱身体撞翻沈夜，最后一球抛投",
+      "durationSec": 3,
+      "branches": [
+        {
+          "id": "B4_back_slam__立刻起身",
+          "gesture": "tap",
+          "next": "B5_old_blade_invite",
+          "statDelta": {
+            "WLD": 1,
+            "MND": 1
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "立刻起身"
+        },
+        {
+          "id": "B4_back_slam__躺地长按看天_1s",
+          "gesture": "long_press",
+          "next": "B5_old_blade_invite",
+          "statDelta": {
+            "MND": 2
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [
+            "第一次想到爸"
+          ],
+          "label": "躺地长按看天 1s"
+        },
+        {
+          "id": "B4_back_slam__盯铁柱不动两秒",
+          "gesture": "tap",
+          "next": "B5_old_blade_invite",
+          "statDelta": {
+            "WLD": 2,
+            "MND": -1
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "盯铁柱不动两秒"
+        }
+      ],
+      "default": "B5_old_blade_invite",
+      "trigger": "铁柱身体撞翻沈夜，最后一球抛投"
+    },
+    "B5_old_blade_invite": {
+      "id": "B5_old_blade_invite",
+      "label": "老刀说'我可以教你打球'",
+      "durationSec": 3,
+      "branches": [
+        {
+          "id": "B5_old_blade_invite__tap_为什么_然后接受",
+          "gesture": "tap",
+          "next": "B6_mom_kitchen",
+          "statDelta": {
+            "MND": 1
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "tap '为什么？' 然后接受"
+        },
+        {
+          "id": "B5_old_blade_invite__tap_不要钱我也不要_转身",
+          "gesture": "tap",
+          "next": "B6_mom_kitchen",
+          "statDelta": {
+            "WLD": 3,
+            "MND": -2
+          },
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "tap '不要钱我也不要' 转身"
+        },
+        {
+          "id": "B5_old_blade_invite__长按沉默_不答应不拒绝",
+          "gesture": "long_press",
+          "next": "B6_mom_kitchen",
+          "statDelta": {
+            "MND": 2,
+            "WLD": 1
+          },
+          "isAggressive": false,
+          "isSuppressed": true,
+          "unlockLeaves": [],
+          "label": "长按沉默 — 不答应不拒绝"
+        }
+      ],
+      "default": "B6_mom_kitchen",
+      "trigger": "老刀说'我可以教你打球'"
+    },
+    "B6_mom_kitchen": {
+      "id": "B6_mom_kitchen",
+      "label": "妈妈说'你爸要是在...'",
+      "durationSec": 3,
+      "branches": [
+        {
+          "id": "B6_mom_kitchen__tap_我爸要是在我就不用去码头",
+          "gesture": "tap",
+          "next": "__END__",
+          "statDelta": {},
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "tap '我爸要是在我就不用去码头'"
+        },
+        {
+          "id": "B6_mom_kitchen__tap_知道了_妈_默默吃面",
+          "gesture": "tap",
+          "next": "__END__",
+          "statDelta": {},
+          "isAggressive": false,
+          "isSuppressed": true,
+          "unlockLeaves": [],
+          "label": "tap '知道了，妈' 默默吃面"
+        },
+        {
+          "id": "B6_mom_kitchen__长按把今晚赢的钱放桌上",
+          "gesture": "long_press",
+          "next": "__END__",
+          "statDelta": {},
+          "isAggressive": false,
+          "isSuppressed": false,
+          "unlockLeaves": [],
+          "label": "长按把今晚赢的钱放桌上"
+        }
+      ],
+      "default": "__END__",
+      "trigger": "妈妈说'你爸要是在...'"
+    }
+  },
+  "chapterStarts": {
+    "01-01-狗笼": "B1_dock_signoff"
+  },
+  "sourceChapters": [
+    "01-01-狗笼"
+  ],
+  "schemaVersion": "1.0.0"
+}

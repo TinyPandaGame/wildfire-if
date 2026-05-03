@@ -1,0 +1,20 @@
+{
+  "gestureWindow.tapMs": 2000,
+  "tap_window_ms": 2000,
+  "gestureWindow.longPressMinMs": 800,
+  "long_press_min_ms": 800,
+  "gestureWindow.swipeMinPx": 120,
+  "swipe_min_px": 120,
+  "defaultPathTimeoutMs": 86400000,
+  "default_path_timeout_ms": 86400000,
+  "wildfireV01.threshold": 2,
+  "wildfire_v01_threshold": 2,
+  "radarChartFlashMs": 1500,
+  "radar_flash_ms": 1500,
+  "videoPlaceholderDurationSec": 3,
+  "video_placeholder_duration_sec": 3,
+  "audioCues.heartbeatHz": 1.2,
+  "audio_heartbeat_hz": 1.2,
+  "audioCues.swipeWhooshDb": -6,
+  "audio_swipe_whoosh_db": -6
+}
