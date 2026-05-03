@@ -138,6 +138,76 @@ face drift between the three views (must be the same identifiable person across 
 
 ---
 
+## 二次元美漫融合版（本次确认版）
+
+```
+[CHARACTER SHEET — Shen Ye / 沈夜 — three-view turnaround]
+
+SUBJECT:
+A 15-year-old Chinese teenage boy from a decaying coastal industrial
+ town called Tiegang. 173cm, lean and wiry but with explosive raw
+ power of a manual laborer (NOT gym muscle, NOT athlete physique).
+ His father is dead; he has been working as a dock laborer for 2 years.
+
+FACE:
+Sharp narrow square jaw, prominent cheekbones.
+
+FEATURES:
+Hard brow ridge, sharp piercing cold eyes, straight nose, thin lips.
+Default expression: not smiling, quiet and watchful. Eyes of someone
+hardened too young by life — a laborer's gaze, not a teenager's.
+
+SKIN:
+Tanned dark from long harbor sun exposure.
+
+HAIR:
+Short buzzcut, jet black, slightly uneven (self-cut, not styled).
+
+CLOTHING:
+Faded gray washed-out tank top (well-worn, slight pilling),
+cheap dark trousers, old basketball shoes with a hole at the right toe.
+
+DISTINCTIVE MARKS:
+Multiple old scratch scars on forearms, fresh cuts and forming calluses
+on palms (from harbor work, still healing), cracked fingertips.
+Laborer's hands — rough, calloused, ungroomed nails.
+
+MOOD/POSTURE:
+Silent, restrained, alert. A boy hardened too young by hard life.
+Laborer's posture and bearing — NOT a model or athlete pose.
+
+[OUTPUT FORMAT — STRICTLY ENFORCED]
+Single image, 1920×1080, 16:9 horizontal aspect ratio.
+Three views arranged horizontally side by side, left to right:
+  1. Front view — facing camera, full body
+  2. Side view — left side at 90°, full body
+  3. Back view — facing away from camera, full body
+Pose: natural standing, arms slightly extended outward (NOT pressed to
+body) so silhouette is clearly visible.
+
+[BACKGROUND]
+Clean plain light gray neutral background. No scene. No props.
+No ground shadow. Soft even lighting, no dramatic light-shadow contrast.
+(This image is used as reference for downstream shot generation — must be
+neutral and context-free.)
+
+[STYLE]
+Anime × American comic hybrid (二次元美漫融合风), cinematic realism,
+high detail, cel-shaded line clarity + US-comic ink texture, gritty yet
+neutral character-sheet finish.
+
+[NEGATIVE]
+gym muscle, pure anime idol styling, cartoon, K-pop idol styling,
+smiling face, polished glamour, clean ironed clothing,
+model-like beauty, multiple separate characters,
+dramatic shadows, any scene background, any environment,
+3/4 angle view (must be STRICTLY front / side / back),
+extra characters, deformed hands, finger count errors,
+face drift between the three views (must be the same identifiable person across all 3)
+```
+
+---
+
 ## 操作流程
 
 1. Agent 复制其中一版 prompt → 发给生图模型
