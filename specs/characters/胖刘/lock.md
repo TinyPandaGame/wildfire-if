@@ -1,29 +1,53 @@
-# 胖刘 — Character Lock
+# 胖刘（Pang Liu）— Character Lock
 
-> 角色锁是 scene-agnostic：跨任意镜头/场景，胖刘 的外形必须保持一致。
-> 任何含 胖刘 的 shot prompt 都要把本文档的视觉字段嵌入。
->
-> **Status: TODO** — 此文件待 agent 填充。参考 `specs/characters/沈夜/lock.md` 的字段结构。
+> 角色锁是 scene-agnostic：跨任意镜头/场景，胖刘的外形必须保持一致。
+> 任何含胖刘的 shot prompt 都要把本文档的视觉字段嵌入。
 
-## 上下文（写时读）
+## 基础
 
-- [story/story-bible.md](../../../story/story-bible.md)（角色表，如果 胖刘 在表里）
-- [story/storyboard/01-01-狗笼.md](../../../story/storyboard/01-01-狗笼.md)（"关键人物一致性约束"段 + 出现 shots 的描写）
-- [story/chapters/01-01-狗笼.md](../../../story/chapters/01-01-狗笼.md)（章节正文里的人物描写）
-- 全局风格基线: 二次元美漫融合（[specs/CATALOG.md](../../CATALOG.md)）
+- **年龄**：40-45 岁中年男性
+- **身高**：约 182cm
+- **体型**：厚重壮实、长期码头重体力形成的“实心力量体型”（不是健身房线条肌）
+- **背景**：铁港码头工头，常年在装卸现场管理工人，行事强硬务实
 
-## 字段（按沈夜模板填）
+## 脸
 
-- 基础（年龄/身高/体型/背景）
-- 脸（脸型/五官/表情基线/肤色）
-- 发（发型/发色）
-- 服装
-- 标志性细节
-- 气质 / 姿态
-- 负面约束
+- **脸型**：宽方脸，颧骨厚，咬肌明显
+- **五官**：粗眉、眼神压迫感强，鼻梁偏宽，嘴唇较厚
+- **表情基线**：不笑，带审视和命令感
+- **肤色**：深小麦偏黑（风吹日晒）
+
+## 发
+
+- **发型**：短发，发际线略后移，边缘有灰白发
+- **发色**：黑发夹少量灰白
+
+## 服装
+
+- **上身**：褪色深色工装背心或短袖工装T（耐磨、旧）
+- **下身**：深色耐磨工装裤
+- **鞋**：旧安全工鞋或厚底旧运动鞋（实用型）
+
+## 标志性细节
+
+- 前臂和手背有陈旧擦伤与粗糙茧皮
+- 手指粗、关节明显，指甲不修边
+- 常带旧记账板/签字夹板（出现道具时可用）
+
+## 气质 / 姿态
+
+- 码头工头的站姿：重心稳、肩背略前压、像随时要下指令
+- 气场是“压人但不张扬”，带基层管理者的硬度
+
+## 负面约束（永远不要出现）
+
+- 健美或精致型肌肉线条
+- 偶像化、潮流穿搭、干净无磨损服装
+- 夸张动漫大眼、卡通化比例
+- 讨好式笑容或亲和叔叔形象
 
 ## 配套资产
 
-- 三视图定型表: `assets/art/characters/胖刘/sheet.png`
-- canonical reference: `assets/art/characters/胖刘/ref.png`
-- 生成 prompt: `specs/characters/胖刘/sheet-prompt.md`
+- 三视图定型表：`assets/art/characters/胖刘/sheet.png`
+- canonical reference 图：`assets/art/characters/胖刘/ref.png`
+- 生成 prompt：`specs/characters/胖刘/sheet-prompt.md`
