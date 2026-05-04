@@ -26,8 +26,8 @@
 【场景建立图 — 沈夜家（无人物）】
 
 铁港筒子楼四层的老旧小户型室内，夜间家用灯光。
-空间狭小压迫：两室一厅但“厅”只是窄过道，
-整体是底层家庭长期使用痕迹，简陋但有人气。
+空间不宽裕但不是极端逼仄：两室一厅的老旧小户型，
+可正常活动，整体是底层家庭长期使用痕迹，简陋但有人气。
 
 关键环境细节：
 - 水泥墙腻子大面积脱落，局部潮斑
@@ -41,7 +41,8 @@
 情绪是“疲惫、克制、现实压力”，同时保留一点生活温度。
 
 构图：16:9 横屏，Establishing + LS（室内全景倾向）。
-强调狭窄纵深与功能区关系（餐桌区→过道→睡眠/书桌区）。
+强调“稍大一点”的可活动空间与功能区关系（餐桌区→过道→睡眠/书桌区），
+保留破旧感但避免过度压缩成拥挤盒子。
 
 禁止人物：不出现任何人物或清晰人形剪影（纯场景参考）。
 
@@ -69,7 +70,7 @@ watermark, logo, text
 
 Old compact apartment interior in Tiegang at night,
 inside an aging corridor-style residential building.
-Space should feel cramped and pressured, low-income but lived-in.
+Space should feel modest and worn (not luxurious), slightly roomier than cramped-box interiors, low-income but lived-in.
 
 Key environmental details:
 - Concrete walls with peeling putty and damp stains
@@ -86,7 +87,8 @@ Emotion: fatigue, restraint, economic pressure,
 with a slight trace of home warmth.
 
 Composition: 16:9 widescreen, interior establishing long shot.
-Show narrow depth and zone relations (table area -> corridor -> bed/study area).
+Show a slightly larger usable interior depth and clear zone relations (table area -> corridor -> bed/study area),
+avoid overly cramped box-like framing.
 
 No people, no visible human silhouettes (pure environment reference).
 
