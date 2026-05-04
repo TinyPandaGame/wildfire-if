@@ -76,7 +76,7 @@
 
 | Status | 场景 | 出现 shots | Prompt | 候选区 | Canonical |
 |---|---|---|---|---|---|
-| 🔴 NEEDED | **铁港码头黄昏** | Shot-01, 02, 03 | [scenes/铁港码头/prompt.md](scenes/铁港码头/) ❌ TODO | candidates/ | establish.png |
+| 🟡 IN_REVIEW | **铁港码头黄昏** | Shot-01, 02, 03 | [scenes/铁港码头/prompt.md](scenes/铁港码头/) ✅ | [candidates/](../assets/art/scenes/铁港码头/candidates/) (1 张) | establish.png |
 | 🔴 NEEDED | **锈街** | Shot-04 | [scenes/锈街/prompt.md](scenes/锈街/) ❌ | candidates/ | establish.png |
 | 🔴 NEEDED | **狗笼外观** | Shot-05 | [scenes/狗笼-外/prompt.md](scenes/狗笼-外/) ❌ | candidates/ | establish.png |
 | 🔴 NEEDED | **狗笼内场** | Shot-06–16 | [scenes/狗笼-内/prompt.md](scenes/狗笼-内/) ❌ | candidates/ | establish.png |
