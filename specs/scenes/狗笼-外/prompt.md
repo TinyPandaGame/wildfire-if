@@ -65,13 +65,13 @@ text watermark, logo
 
 Exterior entrance of the underground court "Dog Cage" in Tiegang's old industrial zone.
 From outside, it looks like a decaying warehouse.
-A skewed corrugated metal gate hangs on old hinges,
-with visible rust, scratches, faded markings, and patch weld seams.
+Use either a warehouse-style rolling shutter (half-open) OR an open/no-door entrance.
+Access should feel easy and informal so spectators can move in and out freely.
+Keep rust, scratches, faded markings, and patch weld seams on surrounding metal structure.
 
 Composition key:
-The tilted metal gate occupies roughly left two-thirds of frame.
-Through the gate gap and interior darkness, dim yellow emergency light leaks out,
-suggesting active life inside.
+Avoid an oversized dominant gate.
+Emphasize an accessible threshold/circulation zone, with dim yellow emergency light leaking from inside to indicate active play space.
 
 Surroundings:
 Rough concrete ground, old chain-link fence, discarded crates/barrels,
