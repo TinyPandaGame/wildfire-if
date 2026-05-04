@@ -14,7 +14,7 @@
 【角色定型表 — 铁柱（Tie Zhu）— 三视图】
 
 主体：
-30-35 岁中国码头工人，身高约 195cm。
+29-30 岁中国码头工人，身高约 195cm。整体是壮年但偏年轻的压迫感，不要中年衰老感。
 重型高大对抗体格，宽肩厚胸，前臂和手掌显著粗大，
 力量感来自长期码头体力劳动（不是健身房雕刻肌，不是健美摆拍体型）。
 铁港地下篮球场“狗笼”的压迫型老手。
@@ -84,7 +84,7 @@ face drift between the three views (same identifiable person across all 3)
 [CHARACTER SHEET — Tie Zhu / 铁柱 — three-view turnaround]
 
 SUBJECT:
-A 30–35-year-old Chinese dock worker from Tiegang,
+A 29–30-year-old Chinese dock worker from Tiegang, with a younger-prime look (NOT middle-aged).
 approximately 195cm tall. Heavy, imposing contact-build body:
 very broad shoulders, thick chest, large forearms and hands.
 His strength comes from years of manual harbor labor
@@ -159,7 +159,7 @@ face drift between three views (must be the same person across all 3)
 [CHARACTER SHEET — Tie Zhu / 铁柱 — three-view turnaround]
 
 SUBJECT:
-A 30–35-year-old Chinese dock worker from Tiegang,
+A 29–30-year-old Chinese dock worker from Tiegang, with a younger-prime look (NOT middle-aged).
 about 195cm tall. Heavy and physically oppressive build:
 broad shoulders, thick chest, large forearms and hands.
 His strength must read as labor-born, not gym-sculpted.

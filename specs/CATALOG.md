@@ -61,7 +61,7 @@
 |---|---|---|---|---|---|---|
 | 🟢 DONE | **沈夜** | Shot-01 | [lock.md](characters/沈夜/lock.md) ✅ | [sheet-prompt.md](characters/沈夜/sheet-prompt.md) ✅ filled example | [sheet-candidates/](../assets/art/characters/沈夜/sheet-candidates/) (1 张) | [sheet.png + ref.png](../assets/art/characters/沈夜/) ✅ |
 | 🟢 DONE | **胖刘**（码头工头）| Shot-03 | [lock.md](characters/胖刘/lock.md) ✅ | [sheet-prompt.md](characters/胖刘/sheet-prompt.md) ✅ | [sheet-candidates/](../assets/art/characters/胖刘/sheet-candidates/) (1 张) | [sheet.png + ref.png](../assets/art/characters/胖刘/) ✅ |
-| 🟡 IN_REVIEW | **铁柱**（195cm 对手）| Shot-07 | [lock.md](characters/铁柱/lock.md) ✅ | [sheet-prompt.md](characters/铁柱/sheet-prompt.md) ✅ | [sheet-candidates/](../assets/art/characters/铁柱/sheet-candidates/) (1 张) | ❌ |
+| 🟡 IN_REVIEW | **铁柱**（195cm 对手）| Shot-07 | [lock.md](characters/铁柱/lock.md) ✅ | [sheet-prompt.md](characters/铁柱/sheet-prompt.md) ✅ | [sheet-candidates/](../assets/art/characters/铁柱/sheet-candidates/) (2 张) | ❌ |
 | 🔴 NEEDED | **老刀**（导师线）| Shot-17 | [lock.md](characters/老刀/lock.md) ❌ TODO | [sheet-prompt.md](characters/老刀/sheet-prompt.md) ❌ TODO | sheet-candidates/ | ❌ |
 | 🔴 NEEDED | **母亲** | Shot-19 | [lock.md](characters/母亲/lock.md) ❌ TODO | [sheet-prompt.md](characters/母亲/sheet-prompt.md) ❌ TODO | sheet-candidates/ | ❌ |
 
