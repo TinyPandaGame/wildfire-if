@@ -80,7 +80,7 @@
 | 🟢 DONE | **锈街** | Shot-04 | [scenes/锈街/prompt.md](scenes/锈街/) ✅ | [candidates/](../assets/art/scenes/锈街/candidates/) (1 张) | [establish.png](../assets/art/scenes/锈街/establish.png) ✅ |
 | 🟡 IN_REVIEW | **狗笼外观** | Shot-05 | [scenes/狗笼-外/prompt.md](scenes/狗笼-外/) ✅ | [candidates/](../assets/art/scenes/狗笼-外/candidates/) (1 张) | establish.png |
 | 🟢 DONE | **狗笼内场** | Shot-06–16 | [scenes/狗笼-内/prompt.md](scenes/狗笼-内/) ✅ | [candidates/](../assets/art/scenes/狗笼-内/candidates/) (2 张) | [establish.png](../assets/art/scenes/狗笼-内/establish.png) ✅ |
-| 🟡 IN_REVIEW | **沈夜家** | Shot-19, 20 | [scenes/沈夜家/prompt.md](scenes/沈夜家/) ✅ | [candidates/](../assets/art/scenes/沈夜家/candidates/) (2 张) | establish.png |
+| 🟢 DONE | **沈夜家** | Shot-19, 20 | [scenes/沈夜家/prompt.md](scenes/沈夜家/) ✅ | [candidates/](../assets/art/scenes/沈夜家/candidates/) (2 张) | [establish.png](../assets/art/scenes/沈夜家/establish.png) ✅ |
 
 **场景建立图用作后续 shot 的"环境参考"**——shot 生成时引用对应场景的 establish.png 保持视觉一致。
 
