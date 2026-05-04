@@ -26,7 +26,7 @@
 【场景建立图 — 铁港码头黄昏（无人物）】
 
 铁港工业海港，黄昏即将入夜的瞬间。
-天空呈“脏橘色快速转暗蓝黑”的过渡，太阳已沉到海平面下缘。
+天空呈“白天尾段的脏橘黄昏”，仍保留明显日间环境亮度；太阳接近海平线但未完全入夜。
 巨量旧集装箱形成“集装箱森林”，层层堆叠，占据画面上半部主体。
 集装箱表面有掉漆、锈蚀、编号磨损、盐雾腐蚀痕迹。
 
@@ -49,7 +49,7 @@
 
 NEGATIVE:
 people, human figure, character silhouette,
-clean modern harbor, bright cheerful travel photo,
+clean modern harbor, bright cheerful travel photo, full night scene,
 sunny blue sky, cyberpunk neon, fantasy architecture,
 over-saturated colors, soft dreamy haze,
 cartoon cute style, low-detail blur, text watermark, logo
@@ -60,8 +60,8 @@ cartoon cute style, low-detail blur, text watermark, logo
 ```text
 [SCENE ESTABLISH — Tiegang Harbor at Dusk — NO CHARACTERS]
 
-A decaying industrial harbor at the edge of sunset into night.
-Sky transitions from dirty orange to deep blue-black; sun already below horizon.
+A decaying industrial harbor in late daytime dusk (golden-dirty orange), still clearly daylight-bright, not night.
+Sky stays in dirty-orange late dusk with mild cool shadows; sun is near the horizon, not fully night.
 Massive stacks of old cargo containers form a “container forest,”
 dominating the upper half of the frame.
 Container surfaces show peeling paint, rust, worn serial markings,
