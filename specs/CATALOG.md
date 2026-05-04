@@ -63,7 +63,7 @@
 | 🟢 DONE | **胖刘**（码头工头）| Shot-03 | [lock.md](characters/胖刘/lock.md) ✅ | [sheet-prompt.md](characters/胖刘/sheet-prompt.md) ✅ | [sheet-candidates/](../assets/art/characters/胖刘/sheet-candidates/) (1 张) | [sheet.png + ref.png](../assets/art/characters/胖刘/) ✅ |
 | 🟢 DONE | **铁柱**（195cm 对手）| Shot-07 | [lock.md](characters/铁柱/lock.md) ✅ | [sheet-prompt.md](characters/铁柱/sheet-prompt.md) ✅ | [sheet-candidates/](../assets/art/characters/铁柱/sheet-candidates/) (2 张) | [sheet.png + ref.png](../assets/art/characters/铁柱/) ✅ |
 | 🟢 DONE | **老刀**（导师线）| Shot-17 | [lock.md](characters/老刀/lock.md) ✅ | [sheet-prompt.md](characters/老刀/sheet-prompt.md) ✅ | [sheet-candidates/](../assets/art/characters/老刀/sheet-candidates/) (1 张) | [sheet.png + ref.png](../assets/art/characters/老刀/) ✅ |
-| 🔴 NEEDED | **母亲** | Shot-19 | [lock.md](characters/母亲/lock.md) ❌ TODO | [sheet-prompt.md](characters/母亲/sheet-prompt.md) ❌ TODO | sheet-candidates/ | ❌ |
+| 🟡 IN_REVIEW | **母亲** | Shot-19 | [lock.md](characters/母亲/lock.md) ✅ | [sheet-prompt.md](characters/母亲/sheet-prompt.md) ✅ | [sheet-candidates/](../assets/art/characters/母亲/sheet-candidates/) (1 张) | ❌ |
 
 **写 lock 时读这些源**：
 - [story/story-bible.md](../story/story-bible.md)（角色表 + 12 维数值轴）
