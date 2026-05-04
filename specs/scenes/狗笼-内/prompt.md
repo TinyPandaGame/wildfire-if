@@ -33,14 +33,14 @@
 形成高反差阴影和脏雾感；整体偏压抑、闷热、粗粝。
 
 场地细节：
-- 地面磨损严重，有球鞋摩擦痕、汗渍与少量湿反光
+- 地面为粗糙水泥球场地（非木地板），磨损明显，有球鞋摩擦痕与灰尘，不要油膜镜面反光
 - 篮筐与铁架有锈蚀和震动磨损痕迹
 - 场边有简陋板凳、啤酒箱、塑料桶、旧毛巾、零散杂物
 - 墙面有剥落涂层、潮斑、涂鸦与破损海报
 - 空气感要体现“烟、汗、海风咸腥混合”的闷场
 
 构图：16:9 横屏，Establishing + LS。
-给出完整内场结构（篮筐、边线区域、围挡关系），
+给出更大尺度的完整内场结构（篮筐、边线缓冲区、围挡外观众可站立区关系），
 用于后续 shot-06 到 shot-18 保持空间一致。
 
 禁止人物：不出现任何人物或清晰人形剪影（纯场景参考）。
@@ -56,6 +56,7 @@
 NEGATIVE:
 people, human figures, character silhouettes,
 clean professional arena, NBA-style modern stadium,
+wood flooring, glossy varnished floor, oily reflective floor,
 bright cheerful lighting, full night exterior sky,
 cyberpunk neon, fantasy architecture,
 oversaturated cartoon colors,
@@ -77,14 +78,14 @@ with occasional cold-white spill creating harsh contrast and dirty haze.
 Overall mood is oppressive, humid, gritty.
 
 Court details:
-- Heavily worn floor with shoe friction marks, sweat stains, slight wet reflections
+Floor is rough concrete court (NOT wooden floor), heavily worn with shoe friction marks and dust; avoid oily glossy reflections.
 - Rusted rim/backboard supports with impact wear
 - Sideline clutter: simple benches, beer crates, plastic buckets, old towels
 - Walls with peeling paint, damp patches, graffiti, torn posters
 - Air feeling should imply smoke + sweat + salty harbor humidity
 
 Composition: 16:9 widescreen, establishing long shot.
-Show full interior spatial layout (hoop, sideline zones, enclosure relations)
+Show a larger full interior layout (hoop, sideline buffer zones, and standing spectator area outside the cage enclosure)
 so shots 06–18 can stay spatially consistent.
 
 No people, no visible human silhouettes (pure environment reference).
