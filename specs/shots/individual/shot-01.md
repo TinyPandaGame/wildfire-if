@@ -29,34 +29,25 @@
 
 ## Image Prompt（agent 填）
 
-<!--
-注入清单：
-- 场景描述（取自分镜的"画面内容"+场景 establish 视觉一致性）
-- 角色文字 spec（从对应 lock.md 复制核心字段）
-- 景别 + 角度 + 镜头运动（取自分镜）
-- 构图（取自分镜，强制写"观众第一眼看哪里"）
-- 光影（取自分镜的色调 + 全局氛围）
-- 风格基线（二次元美漫融合）
-- Negative（防角色漂移、防风格不一致）
--->
-
-待补充。
+【Shot-01 Image Prompt（候选版）】
+铁港码头黄昏，16:9 横屏，ELS 大远景，高角俯拍 45°侧。
+上半画面是集装箱森林与探照灯结构，下半画面是码头作业区。
+沈夜作为小比例人物出现在下方活动区，肩扛货物移动，强调“人被工业空间压住”。
+光线为白天尾段脏橘黄昏 + 冷白探照灯切割，粗粝纪实质感。
+风格：二次元美漫融合（cinematic realism + cel-shaded line clarity + US-comic ink texture）。
+negative：角色脸部漂移、比例跳变、过亮旅游感、夜景过深、卡通化。
 
 ---
 
 ## Video Prompt（agent 填）
 
-<!--
-基于 image prompt 扩展：
-- 起始帧 = 该 shot 的图（用作 video 生成的参考帧 / first frame）
-- 镜头运动（取自分镜，如"慢速下压 + 轻微前推"）
-- 动作节奏（取自分镜）
-- 时长 5-10 秒
-- 音画关键词参考（海风/铁门摩擦等氛围声，仅作 prompt hint，音频后续单独处理）
-- Negative（同 image + 时间维度："no abrupt cuts mid-shot, no character morph"）
--->
-
-待补充。
+【Shot-01 Video Prompt（候选版）】
+基于首帧图（铁港码头 establish）生成 6 秒镜头。
+镜头运动：慢速下压 + 轻微前推（稳定，不跳切）。
+动作节奏：环境先压迫后聚焦，沈夜小比例移动作为生存状态提示。
+画面关键词：港口黄昏、集装箱森林、探照灯冷白切割、工业噪声感、粗粝空气。
+风格一致：二次元美漫融合 + 写实电影骨架。
+negative：abrupt cuts mid-shot, character morph, camera shake jitter, over-smooth plastic texture, full-night look.
 
 ---
 
